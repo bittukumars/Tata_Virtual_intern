@@ -4,7 +4,7 @@ This repository contains all the assignments completed during my participation i
 
 ## TATA Data Visualization: Empowering Business with Effective Insights
 
-**TATA ** offers this virtual experience program. In this program, I had the opportunity to work with passionate multidisciplinary experts who use data visualization technologies like Tableau and Power BI to tackle complex business problems and unearth valuable insights from data.
+**TATA ** offers this virtual experience program. In this program, I had the opportunity to work with passionate multidisciplinary experts who use data visualization technologies like Power BI to tackle complex business problems and unearth valuable insights from data.
 
 The program simulates the real-world challenges faced by Tata Insights and Quants, giving participants a taste of what it's like to work in data-driven decision-making environments.
 
