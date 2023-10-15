@@ -19,16 +19,16 @@ There are four modules in this virtual experience program:
    - Discover which visuals are most effective in different scenarios.
 
 3. **Creating Effective Visuals**
-   - Apply your skills to create visuals based on business scenarios.
+   - Apply my skills to create visuals based on business scenarios.
 
 4. **Communicating Insights and Analysis**
-   - Effectively communicate your findings and insights to business leaders.
+   - Effectively communicate my findings and insights to business leaders.
 
 ### Task 1 - Framing the Business Scenario
 
 #### Background and Context
 
-In this task, you'll act as a consultant for an online retail store. The CEO and CMO have hired you to analyze their data and provide valuable insights for strategic planning and expansion. You need to draft questions that both the CEO and CMO would ask to guide your analysis. These questions should encompass both quantitative and qualitative aspects of the business.
+In this task, i'll act as a consultant for an online retail store. The CEO and CMO have hired me to analyze their data and provide valuable insights for strategic planning and expansion. I need to draft questions that both the CEO and CMO would ask to guide analysis. These questions should encompass both quantitative and qualitative aspects of the business.
 
 #### Key Deliverable
 
@@ -38,7 +38,7 @@ Prepare a set of four questions for each business leader (4 for the CEO and 4 fo
 
 #### Background and Context
 
-As part of this task, you'll provide visuals for the metrics requested by the CEO and CMO. The challenge is to choose the most suitable visual representation for each scenario to avoid conveying incorrect messages or decisions. The senior management aims to understand the business's performance and identify growth opportunities.
+As part of this task, i'll provide visuals for the metrics requested by the CEO and CMO. The challenge is to choose the most suitable visual representation for each scenario to avoid conveying incorrect messages or decisions. The senior management aims to understand the business's performance and identify growth opportunities.
 
 #### Key Deliverable
 
@@ -48,7 +48,7 @@ Answer a multiple-choice quiz to select the appropriate visuals for different bu
 
 #### Background and Context
 
-Now, you will create visuals based on the questions from Task 1. You need to ensure the data is cleaned properly and then create the visuals using either Tableau or Power BI. The CEO and CMO are interested in analyzing trends and key factors affecting the online store's revenue.
+Now, i will create visuals based on the questions from Task 1. I need to ensure the data is cleaned properly and then create the visuals using either Tableau or Power BI. The CEO and CMO are interested in analyzing trends and key factors affecting the online store's revenue.
 
 #### Key Deliverable
 
